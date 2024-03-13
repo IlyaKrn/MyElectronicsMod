@@ -1,0 +1,16 @@
+[
+{
+  "modid": "re",
+  "name": "Redstone Electronics",
+  "description": "Create your cpu!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["IlyaKrn"],
+  "credits": "",
+  "logoFile": "assets/re/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

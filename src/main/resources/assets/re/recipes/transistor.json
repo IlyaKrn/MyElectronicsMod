@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sss",
+    "rfr",
+    "srs"
+  ],
+  "key": {
+    "r": {
+      "item": "minecraft:redstone"
+    },
+    "f": {
+      "item": "minecraft:flint"
+    },
+    "s": {
+      "type":"forge:ore_dict",
+      "ore":"stone"
+    }
+  },
+  "result": {
+    "item": "re:transistor",
+    "count": 8
+  }
+}

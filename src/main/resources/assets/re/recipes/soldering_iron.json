@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "i  ",
+    "fp ",
+    "  p"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "f": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "p": {
+      "type":"forge:ore_dict",
+      "ore":"plankWood"
+    }
+  },
+  "result": {
+    "item": "re:soldering_iron"
+  }
+}
