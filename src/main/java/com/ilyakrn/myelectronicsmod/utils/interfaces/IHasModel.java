@@ -1,4 +1,4 @@
-package com.ilyakrn.redstoneelectronicsmod.utils.interfaces;
+package com.ilyakrn.myelectronicsmod.utils.interfaces;
 
 public interface IHasModel
 {

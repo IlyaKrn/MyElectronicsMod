@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "re:items/soldering_iron"
+    "layer0": "me:items/soldering_iron"
   }
 }

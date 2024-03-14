@@ -1,12 +1,10 @@
-package com.ilyakrn.redstoneelectronicsmod.main;
+package com.ilyakrn.myelectronicsmod.main;
 
-import com.ilyakrn.redstoneelectronicsmod.proxy.CommonProxy;
-import com.ilyakrn.redstoneelectronicsmod.reference.Reference;
-import net.minecraft.init.Blocks;
+import com.ilyakrn.myelectronicsmod.proxy.CommonProxy;
+import com.ilyakrn.myelectronicsmod.reference.Reference;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.SidedProxy;
-import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import org.apache.logging.log4j.Logger;
 

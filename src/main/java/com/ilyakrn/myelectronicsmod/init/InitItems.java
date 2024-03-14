@@ -1,7 +1,7 @@
-package com.ilyakrn.redstoneelectronicsmod.init;
+package com.ilyakrn.myelectronicsmod.init;
 
 
-import com.ilyakrn.redstoneelectronicsmod.items.SolderingIron;
+import com.ilyakrn.myelectronicsmod.items.SolderingIron;
 import net.minecraft.item.Item;
 
 import java.util.ArrayList;

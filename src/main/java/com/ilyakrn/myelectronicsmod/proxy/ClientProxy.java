@@ -1,4 +1,4 @@
-package com.ilyakrn.redstoneelectronicsmod.proxy;
+package com.ilyakrn.myelectronicsmod.proxy;
 
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.item.Item;

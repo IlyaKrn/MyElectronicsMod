@@ -1,14 +1,14 @@
-package com.ilyakrn.redstoneelectronicsmod.tabs;
+package com.ilyakrn.myelectronicsmod.tabs;
 
-import com.ilyakrn.redstoneelectronicsmod.init.InitItems;
+import com.ilyakrn.myelectronicsmod.init.InitItems;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemStack;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
 
-public class RedstoneElectronicsTab extends CreativeTabs {
+public class MyElectronicsTab extends CreativeTabs {
 
-    public RedstoneElectronicsTab(String label) {
+    public MyElectronicsTab(String label) {
         super(label);
     }
 

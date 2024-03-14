@@ -1,7 +1,7 @@
-package com.ilyakrn.redstoneelectronicsmod.utils.handlers;
+package com.ilyakrn.myelectronicsmod.utils.handlers;
 
-import com.ilyakrn.redstoneelectronicsmod.init.InitItems;
-import com.ilyakrn.redstoneelectronicsmod.utils.interfaces.IHasModel;
+import com.ilyakrn.myelectronicsmod.init.InitItems;
+import com.ilyakrn.myelectronicsmod.utils.interfaces.IHasModel;
 import net.minecraft.item.Item;
 import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraftforge.event.RegistryEvent;
