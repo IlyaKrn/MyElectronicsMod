@@ -11,8 +11,8 @@ buildscript {
 apply plugin: 'net.minecraftforge.gradle'
 
 version = '1.0'
-group = 'com.ilyakrn.redstoneelectronicsmod' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = 'redstoneelectronicsmod'
+group = 'com.ilyakrn.myelectronicsmod' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = 'myelectronicsmod'
 
 sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8' // Need this here so eclipse task generates correctly.
 
@@ -45,12 +45,12 @@ sourceSets { main { output.resourcesDir = output.classesDir } }
 jar {
     manifest {
         attributes([
-            "Specification-Title": "redstoneelectronicsmod",
-            "Specification-Vendor": "redstoneelectronicsmodsareus",
+            "Specification-Title": "myelectronicsmod",
+            "Specification-Vendor": "myelectronicsmodsareus",
             "Specification-Version": "1", // We are version 1 of ourselves
             "Implementation-Title": project.name,
             "Implementation-Version": "${version}",
-            "Implementation-Vendor" :"redstoneelectronicsmodsareus",
+            "Implementation-Vendor" :"myelectronicsmodsareus",
             "Implementation-Timestamp": new Date().format("yyyy-MM-dd'T'HH:mm:ssZ")
         ])
     }
