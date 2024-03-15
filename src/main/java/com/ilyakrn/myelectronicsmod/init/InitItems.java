@@ -1,7 +1,7 @@
 package com.ilyakrn.myelectronicsmod.init;
 
 
-import com.ilyakrn.myelectronicsmod.items.SolderingIron;
+import com.ilyakrn.myelectronicsmod.items.ItemSolderingIron;
 import net.minecraft.item.Item;
 
 import java.util.ArrayList;
@@ -9,6 +9,6 @@ import java.util.ArrayList;
 public class InitItems {
     public static final ArrayList<Item> ITEMS = new ArrayList<>();
 
-    public static final Item SOLDERING_IRON = new SolderingIron("soldering_iron");
-    public static final Item TRANSISTOR = new SolderingIron("transistor");
+    public static final Item SOLDERING_IRON = new ItemSolderingIron("soldering_iron");
+    public static final Item TRANSISTOR = new ItemSolderingIron("transistor");
 }

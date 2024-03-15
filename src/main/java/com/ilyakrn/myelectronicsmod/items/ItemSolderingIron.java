@@ -10,7 +10,7 @@ import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.world.World;
 
-public class SolderingIron extends Item implements IHasModel {
+public class ItemSolderingIron extends Item implements IHasModel {
 
     private static final int DURABILITY = 384;
     private static final int DAMAGE_FROM_USE = 24;
@@ -19,7 +19,7 @@ public class SolderingIron extends Item implements IHasModel {
 
     private int repairTimer = 0;
 
-    public SolderingIron(String name) {
+    public ItemSolderingIron(String name) {
         setRegistryName(name);
         setUnlocalizedName(name);
         setCreativeTab(InitTabs.MY_ELECTRONICS_TAB);
