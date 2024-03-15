@@ -22,7 +22,7 @@ public class SolderingIron extends Item implements IHasModel {
     public SolderingIron(String name) {
         setRegistryName(name);
         setUnlocalizedName(name);
-        setCreativeTab(InitTabs.REDSTONE_ELECTRONICS_TAB);
+        setCreativeTab(InitTabs.MY_ELECTRONICS_TAB);
         setMaxStackSize(1);
         setMaxDamage(DURABILITY);
         InitItems.ITEMS.add(this);

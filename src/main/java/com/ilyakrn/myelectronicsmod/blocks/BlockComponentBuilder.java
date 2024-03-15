@@ -11,12 +11,12 @@ import net.minecraft.block.material.Material;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemBlock;
 
-public class ElectronicsBuildTable extends Block implements IHasModel {
-    public ElectronicsBuildTable(String name, Material material) {
+public class BlockComponentBuilder extends Block implements IHasModel {
+    public BlockComponentBuilder(String name, Material material) {
         super(material);
         setRegistryName(name);
         setUnlocalizedName(name);
-        setCreativeTab(InitTabs.REDSTONE_ELECTRONICS_TAB);
+        setCreativeTab(InitTabs.MY_ELECTRONICS_TAB);
         setHardness(3);
         setResistance(3);
         setSoundType(SoundType.STONE);
