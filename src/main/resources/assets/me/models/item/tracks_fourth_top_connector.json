@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "me:items/transistor"
+    "layer0": "me:items/tracks_fourth_top_connector"
   }
 }

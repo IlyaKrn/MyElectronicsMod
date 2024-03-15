@@ -1,4 +1,29 @@
 itemGroup.me=Tutorial Mod
+
+tile.component_builder.name=Component builder
 item.soldering_iron.name=Soldering iron
-item.transistor.name=Transistor
-tile.electronics_build_table.name=Electronics build table
+
+item.track_vertical.name=Vertical track
+item.track_horizontal.name=Horizontal track
+item.track_collector.name=Collector track
+
+item.tracks_vertical.name=Vertical tracks
+item.tracks_horizontal.name=Horizontal tracks
+item.tracks_collector.name=Collector tracks
+
+item.tracks_first_right_connector.name= Tracks first right connector
+item.tracks_first_left_connector.name= Tracks first left connector
+item.tracks_first_top_connector.name= Tracks first top connector
+item.tracks_first_bottom_connector.name= Tracks first bottom connector
+item.tracks_second_right_connector.name= Tracks second right connector
+item.tracks_second_left_connector.name= Tracks second left connector
+item.tracks_second_top_connector.name= Tracks second top connector
+item.tracks_second_bottom_connector.name= Tracks second bottom connector
+item.tracks_third_right_connector.name= Tracks third right connector
+item.tracks_third_left_connector.name= Tracks third left connector
+item.tracks_third_top_connector.name= Tracks third top connector
+item.tracks_third_bottom_connector.name= Tracks third bottom connector
+item.tracks_fourth_right_connector.name= Tracks fourth right connector
+item.tracks_fourth_left_connector.name= Tracks fourth left connector
+item.tracks_fourth_top_connector.name= Tracks fourth top connector
+item.tracks_fourth_bottom_connector.name= Tracks fourth bottom connector

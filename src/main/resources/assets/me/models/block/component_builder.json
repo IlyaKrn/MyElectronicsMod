@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "north": "me:blocks/component_builder_side",
+    "south": "me:blocks/component_builder_side",
+    "east": "me:blocks/component_builder_side",
+    "west": "me:blocks/component_builder_side",
+    "up": "me:blocks/component_builder_top",
+    "down": "me:blocks/component_builder_bottom"
+  }
+}

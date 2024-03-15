@@ -1,7 +1,7 @@
 {
   "variants": {
     "normal": {
-      "model": "me:electronics_build_table"
+      "model": "me:component_builder"
     }
   }
 }
