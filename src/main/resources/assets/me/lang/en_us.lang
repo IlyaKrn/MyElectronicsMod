@@ -15,15 +15,31 @@ item.tracks_first_right_connector.name= Tracks first right connector
 item.tracks_first_left_connector.name= Tracks first left connector
 item.tracks_first_top_connector.name= Tracks first top connector
 item.tracks_first_bottom_connector.name= Tracks first bottom connector
+
 item.tracks_second_right_connector.name= Tracks second right connector
 item.tracks_second_left_connector.name= Tracks second left connector
 item.tracks_second_top_connector.name= Tracks second top connector
 item.tracks_second_bottom_connector.name= Tracks second bottom connector
+
 item.tracks_third_right_connector.name= Tracks third right connector
 item.tracks_third_left_connector.name= Tracks third left connector
 item.tracks_third_top_connector.name= Tracks third top connector
 item.tracks_third_bottom_connector.name= Tracks third bottom connector
+
 item.tracks_fourth_right_connector.name= Tracks fourth right connector
 item.tracks_fourth_left_connector.name= Tracks fourth left connector
 item.tracks_fourth_top_connector.name= Tracks fourth top connector
 item.tracks_fourth_bottom_connector.name= Tracks fourth bottom connector
+
+item.transistor_right.name=Transistor right
+item.transistor_left.name=Transistor left
+item.transistor_top.name=Transistor top
+item.transistor_bottom.name=Transistor bottom
+
+item.transistor_right_mirrored.name=Transistor right mirrored
+item.transistor_left_mirrored.name=Transistor left mirrored
+item.transistor_top_mirrored.name=Transistor top mirrored
+item.transistor_bottom_mirrored.name=Transistor bottom mirrored
+
+item.inverter_vertical.name=Vertical inverter
+item.inverter_horizontal.name=Horizontal inverter
