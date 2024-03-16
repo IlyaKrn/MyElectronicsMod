@@ -41,5 +41,10 @@ item.transistor_left_mirrored.name=Transistor left mirrored
 item.transistor_top_mirrored.name=Transistor top mirrored
 item.transistor_bottom_mirrored.name=Transistor bottom mirrored
 
+item.chip_right.name=Chip right
+item.chip_left.name=Chip left
+item.chip_top.name=Chip top
+item.chip_bottom.name=Chip bottom
+
 item.inverter_vertical.name=Vertical inverter
 item.inverter_horizontal.name=Horizontal inverter

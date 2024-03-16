@@ -55,6 +55,12 @@ public class InitItems {
     public static final Item ITEM_TRANSISTOR_BOTTOM_MIRRORED = new ItemTransistor("transistor_bottom_mirrored");
 
 
+    public static final Item ITEM_CHIP_RIGHT = new ItemTransistor("chip_right");
+    public static final Item ITEM_CHIP_LEFT = new ItemTransistor("chip_left");
+    public static final Item ITEM_CHIP_TOP = new ItemTransistor("chip_top");
+    public static final Item ITEM_CHIP_BOTTOM = new ItemTransistor("chip_bottom");
+
+
     public static final Item ITEM_INVERTER_VERTICAL = new ItemTransistor("inverter_vertical");
     public static final Item ITEM_INVERTER_HORIZONTAL = new ItemTransistor("inverter_horizontal");
 }
