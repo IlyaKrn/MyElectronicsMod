@@ -1,6 +1,8 @@
 itemGroup.me=Tutorial Mod
 
 tile.component_builder.name=Component builder
+container.component_builder=Component builder
+
 item.soldering_iron.name=Soldering iron
 
 item.track_vertical.name=Vertical track

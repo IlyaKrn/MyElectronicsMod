@@ -2,10 +2,12 @@ package com.ilyakrn.myelectronicsmod.main;
 
 import com.ilyakrn.myelectronicsmod.proxy.CommonProxy;
 import com.ilyakrn.myelectronicsmod.reference.Reference;
+import com.ilyakrn.myelectronicsmod.utils.handlers.GuiHandler;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
+import net.minecraftforge.fml.common.network.NetworkRegistry;
 import org.apache.logging.log4j.Logger;
 
 @Mod(modid = Reference.MODID, name = Reference.NAME, version = Reference.VERSION, acceptedMinecraftVersions = Reference.ACCEPTED_MINECRAFT_VERSION)
@@ -25,6 +27,7 @@ public class Main {
     @EventHandler
     public void init(FMLPreInitializationEvent event) {
         logger = event.getModLog();
+        NetworkRegistry.INSTANCE.registerGuiHandler(this, new GuiHandler());
     }
     @EventHandler
     public void postInit(FMLPreInitializationEvent event) {
